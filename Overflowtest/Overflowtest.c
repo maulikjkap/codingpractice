@@ -6,7 +6,7 @@ int main(void)
 {
     int a = 0;
     int b = 0;
-    int c = 0;
+    int c = 0
 
 
     a = 0x7fffffff; b = 0x80000001;
